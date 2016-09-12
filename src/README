@@ -1,0 +1,28 @@
+1) To compile, run the following command from src directory
+	make
+2) to execute, run
+        ./minesweeper
+3) to clean obj files, run the following command from src directory
+	make clean
+
+
+Note: keep input.txt file in src directory
+
+sample input.txt file
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+numberOfRows: 9
+numberOfColumns: 9
+numberOfMines: 1
+0 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 
+
+/////////////////////////////////////////////////////////////////////////////////////
